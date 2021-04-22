@@ -1,2 +1,2 @@
-# notas-investigacion-reproducible
-Tarea 01 - Markdown - Andy Johel Valverde Ledezma - C09291
+# Notas sobre investigación reproducible y análisis de datos  
+Reproductibilidad
